@@ -1,0 +1,6 @@
+*.sol linguist-detectable=true
+*.js linguist-detectable=false
+
+scripts/* linguist-vendored
+test/* linguist-vendored
+ipfs/* linguist-vendored
